@@ -14,7 +14,7 @@ URL：
 # 结果
 方式 | 结果
 :-: | :-: 
-Chrome 浏览器|成功，返回`Can You See Me ? !@#$%^&*()`
+Chrome 浏览器|成功，返回`Can You See Me ? (Unicode LE with BOM) 测试中文`
 网页_访问S|***失败，返回空字符串***
 网页_取网页源码|***失败，返回空字符串***
 
