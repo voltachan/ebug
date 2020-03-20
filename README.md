@@ -5,7 +5,7 @@ URL：
 
 国内源：
 
-[https://cdn.jsdelivr.net/gh/voltachan/ebug@master/test.txt](https://cdn.jsdelivr.net/gh/voltachan/ebug@master/test.txt)
+[https://cdn.jsdelivr.net/gh/voltachan/ebug@latest/test.txt](https://cdn.jsdelivr.net/gh/voltachan/ebug@latest/test.txt)
 
 国外源：
 
